@@ -453,5 +453,16 @@
   ],
   "declineCards": [],
   "successItems": [],
-  "historyItems": []
+  "historyItems": [
+    {
+      "type": "real",
+      "number": "4427567044126386",
+      "month": "06",
+      "year": "2030",
+      "cvv": "654",
+      "name": "Ana Cavalcanti",
+      "filledAt": 1778873970473,
+      "id": 1778873970473.1807
+    }
+  ]
 }
