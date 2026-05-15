@@ -1,19 +1,7 @@
 {
   "realCards": [],
   "declineCards": [],
-  "successItems": [
-    {
-      "type": "real",
-      "number": "4424508613601816",
-      "month": "09",
-      "year": "2030",
-      "cvv": "530",
-      "name": "Ronald Morris",
-      "adsAccount": "Unknown Account",
-      "savedAt": 1778826310729,
-      "id": 1
-    }
-  ],
+  "successItems": [],
   "historyItems": [
     {
       "type": "real",
