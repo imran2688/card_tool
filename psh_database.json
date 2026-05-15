@@ -2,16 +2,5 @@
   "realCards": [],
   "declineCards": [],
   "successItems": [],
-  "historyItems": [
-    {
-      "type": "real",
-      "number": "4424508686474505",
-      "month": "01",
-      "year": "2030",
-      "cvv": "674",
-      "name": "Savannah Lepage",
-      "filledAt": 1778827763608,
-      "id": 1
-    }
-  ]
+  "historyItems": []
 }
