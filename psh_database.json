@@ -93,5 +93,16 @@
   ],
   "declineCards": [],
   "successItems": [],
-  "historyItems": []
+  "historyItems": [
+    {
+      "type": "real",
+      "number": "4424508675102133",
+      "month": "12",
+      "year": "2028",
+      "cvv": "050",
+      "name": "Gabriel Collins",
+      "filledAt": 1778830670192,
+      "id": 1778830670192.4905
+    }
+  ]
 }
