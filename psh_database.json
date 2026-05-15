@@ -1,120 +1,60 @@
 {
-  "realCards": [
-    {
-      "type": "real",
-      "number": "4424508675102133",
-      "month": "12",
-      "year": "2028",
-      "cvv": "050",
-      "addedAt": 1778830622005,
-      "id": 1778830622005.7463
-    },
-    {
-      "type": "real",
-      "number": "4424508688621103",
-      "month": "11",
-      "year": "2028",
-      "cvv": "860",
-      "addedAt": 1778830622005,
-      "id": 1778830622005.7139
-    },
-    {
-      "type": "real",
-      "number": "4424508650682331",
-      "month": "06",
-      "year": "2031",
-      "cvv": "161",
-      "addedAt": 1778830622005,
-      "id": 1778830622005.5256
-    },
-    {
-      "type": "real",
-      "number": "4424508660655830",
-      "month": "02",
-      "year": "2029",
-      "cvv": "550",
-      "addedAt": 1778830622005,
-      "id": 1778830622005.8293
-    },
-    {
-      "type": "real",
-      "number": "4424508601110556",
-      "month": "05",
-      "year": "2031",
-      "cvv": "762",
-      "addedAt": 1778830622005,
-      "id": 1778830622005.2864
-    },
-    {
-      "type": "real",
-      "number": "4424508630316547",
-      "month": "08",
-      "year": "2030",
-      "cvv": "215",
-      "addedAt": 1778830622005,
-      "id": 1778830622005.4797
-    },
-    {
-      "type": "real",
-      "number": "4424508665724185",
-      "month": "09",
-      "year": "2030",
-      "cvv": "068",
-      "addedAt": 1778830622005,
-      "id": 1778830622005.571
-    },
-    {
-      "type": "real",
-      "number": "4424508636086227",
-      "month": "01",
-      "year": "2031",
-      "cvv": "137",
-      "addedAt": 1778830622005,
-      "id": 1778830622005.2063
-    },
-    {
-      "type": "real",
-      "number": "4424508670530767",
-      "month": "12",
-      "year": "2028",
-      "cvv": "782",
-      "addedAt": 1778830622005,
-      "id": 1778830622005.4075
-    },
-    {
-      "type": "real",
-      "number": "4424508636705867",
-      "month": "04",
-      "year": "2029",
-      "cvv": "073",
-      "addedAt": 1778830622005,
-      "id": 1778830622005.528
-    }
-  ],
+  "realCards": [],
   "declineCards": [],
   "successItems": [
     {
       "type": "real",
-      "number": "4424508675102133",
-      "month": "12",
-      "year": "2028",
-      "cvv": "050",
-      "name": "Gabriel Collins",
+      "number": "4424508613601816",
+      "month": "09",
+      "year": "2030",
+      "cvv": "530",
+      "name": "Ronald Morris",
+      "adsAccount": "Unknown Account",
+      "savedAt": 1778826310729,
+      "id": 1
+    },
+    {
+      "type": "real",
+      "number": "4424508640746725",
+      "month": "09",
+      "year": "2029",
+      "cvv": "643",
+      "name": "Cynthia Cook",
       "adsAccount": "Shad Crawford",
-      "savedAt": 1778830686032,
-      "id": 1778830686032.1257
+      "savedAt": 1778827971016,
+      "id": 3
     }
   ],
   "historyItems": [
     {
       "type": "real",
-      "number": "4424508675102133",
-      "month": "12",
+      "number": "4424508686474505",
+      "month": "01",
+      "year": "2030",
+      "cvv": "674",
+      "name": "Savannah Lepage",
+      "filledAt": 1778827763608,
+      "id": 1
+    },
+    {
+      "type": "real",
+      "number": "4424508640746725",
+      "month": "09",
+      "year": "2029",
+      "cvv": "643",
+      "name": "Cynthia Cook",
+      "filledAt": 1778827961206,
+      "id": 2
+    },
+    {
+      "type": "real",
+      "number": "4424508627237425",
+      "month": "03",
       "year": "2028",
-      "cvv": "050",
-      "name": "Gabriel Collins",
-      "filledAt": 1778830670192,
-      "id": 1778830670192.4905
+      "cvv": "436",
+      "name": "Christian Lacroix",
+      "filledAt": 1778827978918,
+      "id": 3
     }
   ]
 }
