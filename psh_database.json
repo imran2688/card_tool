@@ -17,7 +17,7 @@
   "durationDays": "",
   "dailyBudget": "5",
   "enableAudience": true,
-  "targetGender": "",
+  "targetGender": "Men",
   "targetLocation": "Bangladesh",
   "templateUrl": "",
   "adAccountIds": ""
