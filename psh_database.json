@@ -1,15 +1,5 @@
 {
-  "realCards": [
-    {
-      "type": "real",
-      "number": "4427427086544576",
-      "month": "12",
-      "year": "2028",
-      "cvv": "607",
-      "addedAt": 1780122951575,
-      "id": 1780122951575.321
-    }
-  ],
+  "realCards": [],
   "declineCards": [],
   "successItems": [],
   "historyItems": [
