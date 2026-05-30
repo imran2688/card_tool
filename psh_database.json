@@ -1543,7 +1543,7 @@
   "durationMode": "",
   "durationDays": "",
   "dailyBudget": "",
-  "enableAudience": "",
+  "enableAudience": true,
   "targetGender": "",
   "targetLocation": "",
   "templateUrl": "",
