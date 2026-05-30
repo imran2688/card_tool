@@ -3,15 +3,7 @@
   "declineCards": [],
   "successItems": [],
   "historyItems": [],
-  "appCard": {
-    "type": "app",
-    "number": "4427427086285477",
-    "month": "03",
-    "year": "2030",
-    "cvv": "521",
-    "addedAt": 1780181468875,
-    "id": 1780181468875.0305
-  },
+  "appCard": null,
   "verifyCard": null,
   "adText": "",
   "headline": "",
