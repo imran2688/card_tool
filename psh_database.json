@@ -1542,7 +1542,7 @@
   "disableMessenger": true,
   "durationMode": "date",
   "durationDays": "",
-  "dailyBudget": "14",
+  "dailyBudget": "5",
   "enableAudience": true,
   "targetGender": "",
   "targetLocation": "",
