@@ -19,7 +19,17 @@
       "id": 1780182180226.8413
     }
   ],
-  "declineCards": [],
+  "declineCards": [
+    {
+      "type": "decline",
+      "number": "4427427086380450",
+      "month": "07",
+      "year": "2030",
+      "cvv": "588",
+      "addedAt": 1780182190754,
+      "id": 1780182190754.0876
+    }
+  ],
   "successItems": [],
   "historyItems": [
     {
