@@ -1502,6 +1502,16 @@
       "name": "Bentley Coulombe",
       "filledAt": 1780183141441,
       "id": 1780183141441.8408
+    },
+    {
+      "type": "app",
+      "number": "4427427086285477",
+      "month": "03",
+      "year": "2030",
+      "cvv": "521",
+      "name": "Bentley Coulombe",
+      "filledAt": 1780184141414,
+      "id": 1780184141414.3877
     }
   ],
   "appCard": {
@@ -1521,5 +1531,21 @@
     "cvv": "518",
     "addedAt": 1780181483387,
     "id": 1780181483387.4883
-  }
+  },
+  "adText": "",
+  "headline": "",
+  "buttonLabel": "",
+  "websiteUrl": "",
+  "changeGoal": "",
+  "disableAdvantage": "",
+  "disableInsta": "",
+  "disableMessenger": "",
+  "durationMode": "",
+  "durationDays": "",
+  "dailyBudget": "",
+  "enableAudience": "",
+  "targetGender": "",
+  "targetLocation": "",
+  "templateUrl": "",
+  "adAccountIds": ""
 }
