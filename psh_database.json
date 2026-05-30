@@ -1,16 +1,6 @@
 {
   "realCards": [],
-  "declineCards": [
-    {
-      "type": "decline",
-      "number": "4427427086380450",
-      "month": "07",
-      "year": "2030",
-      "cvv": "588",
-      "addedAt": 1780182190754,
-      "id": 1780182190754.0876
-    }
-  ],
+  "declineCards": [],
   "successItems": [],
   "historyItems": [
     {
@@ -1372,6 +1362,16 @@
       "name": "Angela Cooper",
       "filledAt": 1780182224569,
       "id": 1780182224569.663
+    },
+    {
+      "type": "decline",
+      "number": "4427427086380450",
+      "month": "07",
+      "year": "2030",
+      "cvv": "588",
+      "name": "Sergio Magalhaes",
+      "filledAt": 1780182235692,
+      "id": 1780182235692.3481
     }
   ],
   "appCard": {
