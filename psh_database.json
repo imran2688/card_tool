@@ -1540,7 +1540,7 @@
   "disableAdvantage": true,
   "disableInsta": "",
   "disableMessenger": "",
-  "durationMode": "",
+  "durationMode": "date",
   "durationDays": "",
   "dailyBudget": "",
   "enableAudience": true,
