@@ -17,7 +17,7 @@
   "durationDays": "",
   "dailyBudget": "",
   "enableAudience": true,
-  "targetGender": "",
+  "targetGender": "Men",
   "targetLocation": "",
   "templateUrl": "",
   "adAccountIds": ""
