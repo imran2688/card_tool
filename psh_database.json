@@ -2,7 +2,18 @@
   "realCards": [],
   "declineCards": [],
   "successItems": [],
-  "historyItems": [],
+  "historyItems": [
+    {
+      "type": "app",
+      "number": "4859540150942091",
+      "month": "05",
+      "year": "30",
+      "cvv": "166",
+      "name": "Brandon Henderson",
+      "filledAt": 1780449802977,
+      "id": 1780449802977.069
+    }
+  ],
   "appCard": {
     "type": "app",
     "number": "4859540150942091",
