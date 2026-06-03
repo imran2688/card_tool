@@ -3,15 +3,7 @@
   "declineCards": [],
   "successItems": [],
   "historyItems": [],
-  "appCard": {
-    "type": "app",
-    "number": "4859540150942091",
-    "month": "05",
-    "year": "30",
-    "cvv": "166",
-    "addedAt": 1780431382419,
-    "id": 1780431382419.0881
-  },
+  "appCard": null,
   "verifyCard": null,
   "adText": "Click The Learn More button to watch the full video 🥵🥵",
   "headline": "Click Now 👉👉👉",
