@@ -174,7 +174,7 @@
   "disableAdvantage": true,
   "disableInsta": true,
   "disableMessenger": true,
-  "durationMode": "continuous",
+  "durationMode": "date",
   "durationDays": "",
   "dailyBudget": "",
   "enableAudience": true,
