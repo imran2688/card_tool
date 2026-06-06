@@ -1074,15 +1074,7 @@
       "id": 1780720384907.1946
     }
   ],
-  "appCard": {
-    "type": "app",
-    "number": "4938754359720704",
-    "month": "06",
-    "year": "31",
-    "cvv": "463",
-    "addedAt": 1780568520232,
-    "id": 1780568520232.2231
-  },
+  "appCard": null,
   "verifyCard": null,
   "adText": "Click The Learn More button to watch the full video 🥵🥵",
   "headline": "Click Now 👉👉👉",
