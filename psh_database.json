@@ -1066,7 +1066,7 @@
   "disableMessenger": true,
   "durationMode": "date",
   "durationDays": "",
-  "dailyBudget": "",
+  "dailyBudget": "500.00",
   "enableAudience": true,
   "targetGender": "Men",
   "targetLocation": "Malaysia",
