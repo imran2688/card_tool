@@ -2220,7 +2220,7 @@
   "disableAdvantage": true,
   "disableInsta": true,
   "disableMessenger": true,
-  "durationMode": "date",
+  "durationMode": "continuous",
   "durationDays": "",
   "dailyBudget": "500.00",
   "enableAudience": true,
