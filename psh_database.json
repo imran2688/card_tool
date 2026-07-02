@@ -254,19 +254,7 @@
     }
   ],
   "declineCards": [],
-  "successItems": [
-    {
-      "type": "app",
-      "number": "4549240639350901",
-      "month": "08",
-      "year": "30",
-      "cvv": "239",
-      "name": "Chloe Poirier",
-      "adsAccount": "Payment settings",
-      "savedAt": 1780480683486,
-      "id": 1780480683486.9333
-    }
-  ],
+  "successItems": [],
   "historyItems": [
     {
       "type": "app",
