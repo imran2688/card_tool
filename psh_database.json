@@ -265,15 +265,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "4427427086861111",
-      "month": "09",
-      "year": "2028",
-      "cvv": "555",
-      "addedAt": 1783377498159,
-      "id": 1783377498159.8352
-    },
-    {
-      "type": "decline",
       "number": "4427427086554567",
       "month": "11",
       "year": "2031",
@@ -3377,6 +3368,16 @@
       "name": "Jack Diaz",
       "filledAt": 1783377399231,
       "id": 1783377399231.3987
+    },
+    {
+      "type": "decline",
+      "number": "4427427086861111",
+      "month": "09",
+      "year": "2028",
+      "cvv": "555",
+      "name": "Alice Desrosiers",
+      "filledAt": 1783377513294,
+      "id": 1783377513294.2173
     }
   ],
   "appCard": {
