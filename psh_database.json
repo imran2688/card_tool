@@ -58,15 +58,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5325443900452888",
-      "month": "07",
-      "year": "2030",
-      "cvv": "745",
-      "addedAt": 1786825289746,
-      "id": 1786825289746.1401
-    },
-    {
-      "type": "decline",
       "number": "5325443900818070",
       "month": "05",
       "year": "2028",
@@ -4622,6 +4613,16 @@
       "name": "Justin Bennett",
       "filledAt": 1786825304637,
       "id": 1786825304637.0837
+    },
+    {
+      "type": "decline",
+      "number": "5325443900452888",
+      "month": "07",
+      "year": "2030",
+      "cvv": "745",
+      "name": "Amanda Azevedo",
+      "filledAt": 1786825311262,
+      "id": 1786825311262.9268
     }
   ],
   "appCard": {
