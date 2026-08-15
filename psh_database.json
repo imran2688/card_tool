@@ -58,15 +58,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5325443900344168",
-      "month": "06",
-      "year": "2029",
-      "cvv": "500",
-      "addedAt": 1786825289746,
-      "id": 1786825289746.0588
-    },
-    {
-      "type": "decline",
       "number": "5325443900452888",
       "month": "07",
       "year": "2030",
@@ -4621,6 +4612,16 @@
       "name": "Frances Hayes",
       "filledAt": 1786825215894,
       "id": 1786825215894.739
+    },
+    {
+      "type": "decline",
+      "number": "5325443900344168",
+      "month": "06",
+      "year": "2029",
+      "cvv": "500",
+      "name": "Justin Bennett",
+      "filledAt": 1786825304637,
+      "id": 1786825304637.0837
     }
   ],
   "appCard": {
