@@ -103,15 +103,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5325443900818070",
-      "month": "05",
-      "year": "2028",
-      "cvv": "473",
-      "addedAt": 1786825289746,
-      "id": 1786825289746.921
-    },
-    {
-      "type": "decline",
       "number": "5325443900102459",
       "month": "09",
       "year": "2030",
@@ -5238,6 +5229,16 @@
       "name": "Rafael Cunha",
       "filledAt": 1788286747736,
       "id": 1788286747736.4648
+    },
+    {
+      "type": "decline",
+      "number": "5325443900818070",
+      "month": "05",
+      "year": "2028",
+      "cvv": "473",
+      "name": "Carlos Nunes",
+      "filledAt": 1788286757961,
+      "id": 1788286757961.4526
     }
   ],
   "appCard": {
