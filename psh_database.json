@@ -1,15 +1,5 @@
 {
-  "realCards": [
-    {
-      "type": "real",
-      "number": "5366131252640776",
-      "month": "01",
-      "year": "2029",
-      "cvv": "505",
-      "addedAt": 1788283456102,
-      "id": 1788283456102.5393
-    }
-  ],
+  "realCards": [],
   "declineCards": [
     {
       "type": "decline",
@@ -4828,6 +4818,16 @@
       "name": "Maxwell Washington",
       "filledAt": 1788283368084,
       "id": 1788283368084.3462
+    },
+    {
+      "type": "real",
+      "number": "5366131252640776",
+      "month": "01",
+      "year": "2029",
+      "cvv": "505",
+      "name": "Alice Wood",
+      "filledAt": 1788283484699,
+      "id": 1788283484699.4658
     }
   ],
   "appCard": {
