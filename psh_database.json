@@ -1,15 +1,5 @@
 {
-  "realCards": [
-    {
-      "type": "real",
-      "number": "5366131252674015",
-      "month": "10",
-      "year": "2028",
-      "cvv": "861",
-      "addedAt": 1788284560085,
-      "id": 1788284560085.9006
-    }
-  ],
+  "realCards": [],
   "declineCards": [
     {
       "type": "decline",
@@ -5038,6 +5028,16 @@
       "name": "Sophia Santos",
       "filledAt": 1788285150054,
       "id": 1788285150054.6497
+    },
+    {
+      "type": "real",
+      "number": "5366131252674015",
+      "month": "10",
+      "year": "2028",
+      "cvv": "861",
+      "name": "Edna Foster",
+      "filledAt": 1788285159579,
+      "id": 1788285159579.3132
     }
   ],
   "appCard": {
