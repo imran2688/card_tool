@@ -6029,15 +6029,7 @@
       "id": 1793347368694.786
     }
   ],
-  "appCard": {
-    "type": "app",
-    "number": "5275200141124969",
-    "month": "07",
-    "year": "31",
-    "cvv": "060",
-    "addedAt": 1793212405691,
-    "id": 1793212405691.1255
-  },
+  "appCard": null,
   "verifyCard": {
     "type": "verify",
     "number": "4513118070434453",
