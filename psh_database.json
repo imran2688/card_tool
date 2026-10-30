@@ -6061,7 +6061,15 @@
       "id": 1793349778123.0437
     }
   ],
-  "appCard": null,
+  "appCard": {
+    "type": "app",
+    "number": "4400663397742514",
+    "month": "07",
+    "year": "27",
+    "cvv": "627",
+    "addedAt": 1793349980343,
+    "id": 1793349980343.844
+  },
   "verifyCard": {
     "type": "verify",
     "number": "4513118070434453",
