@@ -6543,7 +6543,15 @@
     "addedAt": 1793575839414,
     "id": 1793575839414.692
   },
-  "verifyCard": null,
+  "verifyCard": {
+    "type": "verify",
+    "number": "4513118178754992",
+    "month": "11",
+    "year": "27",
+    "cvv": "385",
+    "addedAt": 1793605579649,
+    "id": 1793605579649.2275
+  },
   "adText": "Click The Learn More button to watch the full video 🥵🥵",
   "headline": "Click Here 👉👉👉",
   "buttonLabel": "Learn more",
