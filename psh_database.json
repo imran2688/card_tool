@@ -175,15 +175,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111043586622",
-      "month": "06",
-      "year": "2031",
-      "cvv": "602",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.8823
-    },
-    {
-      "type": "decline",
       "number": "5199111046587411",
       "month": "08",
       "year": "2028",
@@ -7227,6 +7218,16 @@
       "name": "Catherine Wallace",
       "filledAt": 1793652240912,
       "id": 1793652240912.8955
+    },
+    {
+      "type": "decline",
+      "number": "5199111043586622",
+      "month": "06",
+      "year": "2031",
+      "cvv": "602",
+      "name": "Michael Davis",
+      "filledAt": 1793652344657,
+      "id": 1793652344657.486
     }
   ],
   "appCard": {
