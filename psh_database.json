@@ -175,15 +175,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111042864574",
-      "month": "02",
-      "year": "2028",
-      "cvv": "308",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.9724
-    },
-    {
-      "type": "decline",
       "number": "5199111045384752",
       "month": "12",
       "year": "2031",
@@ -7224,6 +7215,16 @@
       "name": "Jack Diaz",
       "filledAt": 1793652217929,
       "id": 1793652217929.1423
+    },
+    {
+      "type": "decline",
+      "number": "5199111042864574",
+      "month": "02",
+      "year": "2028",
+      "cvv": "308",
+      "name": "Jayden Perez",
+      "filledAt": 1793652226844,
+      "id": 1793652226844.6387
     }
   ],
   "appCard": {
