@@ -184,15 +184,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111043434021",
-      "month": "03",
-      "year": "2029",
-      "cvv": "243",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.1367
-    },
-    {
-      "type": "decline",
       "number": "5199111040437332",
       "month": "01",
       "year": "2031",
@@ -7221,6 +7212,16 @@
       "name": "Harriet Griffin",
       "filledAt": 1793652103003,
       "id": 1793652103003.6794
+    },
+    {
+      "type": "decline",
+      "number": "5199111043434021",
+      "month": "03",
+      "year": "2029",
+      "cvv": "243",
+      "name": "Jackson Girard",
+      "filledAt": 1793652171560,
+      "id": 1793652171560.4067
     }
   ],
   "appCard": {
