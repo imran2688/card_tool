@@ -175,15 +175,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111040437332",
-      "month": "01",
-      "year": "2031",
-      "cvv": "430",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.0715
-    },
-    {
-      "type": "decline",
       "number": "5199111042864574",
       "month": "02",
       "year": "2028",
@@ -7223,6 +7214,16 @@
       "name": "Levi Jordan",
       "filledAt": 1793652199470,
       "id": 1793652199470.7876
+    },
+    {
+      "type": "decline",
+      "number": "5199111040437332",
+      "month": "01",
+      "year": "2031",
+      "cvv": "430",
+      "name": "Jack Diaz",
+      "filledAt": 1793652217929,
+      "id": 1793652217929.1423
     }
   ],
   "appCard": {
