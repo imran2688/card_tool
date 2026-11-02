@@ -175,15 +175,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111042324256",
-      "month": "08",
-      "year": "2030",
-      "cvv": "418",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.2197
-    },
-    {
-      "type": "decline",
       "number": "5199111043586622",
       "month": "06",
       "year": "2031",
@@ -7226,6 +7217,16 @@
       "name": "Calliope Powell",
       "filledAt": 1793652233909,
       "id": 1793652233909.2522
+    },
+    {
+      "type": "decline",
+      "number": "5199111042324256",
+      "month": "08",
+      "year": "2030",
+      "cvv": "418",
+      "name": "Catherine Wallace",
+      "filledAt": 1793652240912,
+      "id": 1793652240912.8955
     }
   ],
   "appCard": {
