@@ -139,15 +139,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111040806619",
-      "month": "08",
-      "year": "2028",
-      "cvv": "332",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.4526
-    },
-    {
-      "type": "decline",
       "number": "5199111047763144",
       "month": "10",
       "year": "2029",
@@ -7252,6 +7243,16 @@
       "name": "Steven Baker",
       "filledAt": 1793697080741,
       "id": 1793697080741.223
+    },
+    {
+      "type": "decline",
+      "number": "5199111040806619",
+      "month": "08",
+      "year": "2028",
+      "cvv": "332",
+      "name": "Anna Ramirez",
+      "filledAt": 1793697087907,
+      "id": 1793697087907.606
     }
   ],
   "appCard": {
