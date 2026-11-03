@@ -139,15 +139,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111044354723",
-      "month": "05",
-      "year": "2029",
-      "cvv": "015",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.8452
-    },
-    {
-      "type": "decline",
       "number": "5199111045086126",
       "month": "01",
       "year": "2031",
@@ -7243,6 +7234,16 @@
       "name": "Dorothea Simmons",
       "filledAt": 1793696229346,
       "id": 1793696229346.2954
+    },
+    {
+      "type": "decline",
+      "number": "5199111044354723",
+      "month": "05",
+      "year": "2029",
+      "cvv": "015",
+      "name": "Gary Howard",
+      "filledAt": 1793696842593,
+      "id": 1793696842593.4995
     }
   ],
   "appCard": {
