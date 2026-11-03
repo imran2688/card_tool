@@ -139,15 +139,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111047774083",
-      "month": "02",
-      "year": "2031",
-      "cvv": "287",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.8105
-    },
-    {
-      "type": "decline",
       "number": "5199111043578736",
       "month": "01",
       "year": "2031",
@@ -7250,6 +7241,16 @@
       "name": "Logan Turner",
       "filledAt": 1793697061808,
       "id": 1793697061808.8152
+    },
+    {
+      "type": "decline",
+      "number": "5199111047774083",
+      "month": "02",
+      "year": "2031",
+      "cvv": "287",
+      "name": "Sharon Rogers",
+      "filledAt": 1793697072733,
+      "id": 1793697072733.3345
     }
   ],
   "appCard": {
