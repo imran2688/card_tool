@@ -130,15 +130,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111043578819",
-      "month": "12",
-      "year": "2031",
-      "cvv": "666",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.177
-    },
-    {
-      "type": "decline",
       "number": "5199111047868851",
       "month": "05",
       "year": "2031",
@@ -7255,6 +7246,16 @@
       "name": "Leander West",
       "filledAt": 1793697118560,
       "id": 1793697118560.6301
+    },
+    {
+      "type": "decline",
+      "number": "5199111043578819",
+      "month": "12",
+      "year": "2031",
+      "cvv": "666",
+      "name": "Ethel Fisher",
+      "filledAt": 1793697166162,
+      "id": 1793697166162.3052
     }
   ],
   "appCard": {
