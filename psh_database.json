@@ -139,15 +139,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111048518570",
-      "month": "04",
-      "year": "2030",
-      "cvv": "458",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.8037
-    },
-    {
-      "type": "decline",
       "number": "5199111043414874",
       "month": "08",
       "year": "2030",
@@ -7247,6 +7238,16 @@
       "name": "Evelyn Roberts",
       "filledAt": 1793696906852,
       "id": 1793696906852.1187
+    },
+    {
+      "type": "decline",
+      "number": "5199111048518570",
+      "month": "04",
+      "year": "2030",
+      "cvv": "458",
+      "name": "Dominic Champagne",
+      "filledAt": 1793696997655,
+      "id": 1793696997655.5806
     }
   ],
   "appCard": {
