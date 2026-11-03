@@ -130,15 +130,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111045034415",
-      "month": "10",
-      "year": "2030",
-      "cvv": "335",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.0923
-    },
-    {
-      "type": "decline",
       "number": "5199111046144015",
       "month": "07",
       "year": "2031",
@@ -7257,6 +7248,16 @@
       "name": "Lorenzo Costa",
       "filledAt": 1793697177013,
       "id": 1793697177013.9263
+    },
+    {
+      "type": "decline",
+      "number": "5199111045034415",
+      "month": "10",
+      "year": "2030",
+      "cvv": "335",
+      "name": "Hazel Tessier",
+      "filledAt": 1793697184880,
+      "id": 1793697184880.611
     }
   ],
   "appCard": {
