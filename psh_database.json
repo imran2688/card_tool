@@ -130,15 +130,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111047868851",
-      "month": "05",
-      "year": "2031",
-      "cvv": "376",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.9556
-    },
-    {
-      "type": "decline",
       "number": "5199111045034415",
       "month": "10",
       "year": "2030",
@@ -7256,6 +7247,16 @@
       "name": "Ethel Fisher",
       "filledAt": 1793697166162,
       "id": 1793697166162.3052
+    },
+    {
+      "type": "decline",
+      "number": "5199111047868851",
+      "month": "05",
+      "year": "2031",
+      "cvv": "376",
+      "name": "Lorenzo Costa",
+      "filledAt": 1793697177013,
+      "id": 1793697177013.9263
     }
   ],
   "appCard": {
