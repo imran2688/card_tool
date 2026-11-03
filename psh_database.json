@@ -139,15 +139,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111042430673",
-      "month": "09",
-      "year": "2029",
-      "cvv": "737",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.7202
-    },
-    {
-      "type": "decline",
       "number": "5199111047774083",
       "month": "02",
       "year": "2031",
@@ -7249,6 +7240,16 @@
       "name": "Archibald Jenkins",
       "filledAt": 1793697026032,
       "id": 1793697026032.6245
+    },
+    {
+      "type": "decline",
+      "number": "5199111042430673",
+      "month": "09",
+      "year": "2029",
+      "cvv": "737",
+      "name": "Logan Turner",
+      "filledAt": 1793697061808,
+      "id": 1793697061808.8152
     }
   ],
   "appCard": {
