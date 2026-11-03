@@ -139,15 +139,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111044604614",
-      "month": "01",
-      "year": "2029",
-      "cvv": "454",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.8125
-    },
-    {
-      "type": "decline",
       "number": "5199111047523647",
       "month": "03",
       "year": "2029",
@@ -7245,6 +7236,16 @@
       "name": "Ezra Coleman",
       "filledAt": 1793696861373,
       "id": 1793696861373.3433
+    },
+    {
+      "type": "decline",
+      "number": "5199111044604614",
+      "month": "01",
+      "year": "2029",
+      "cvv": "454",
+      "name": "Edward Stewart",
+      "filledAt": 1793696897935,
+      "id": 1793696897935.8923
     }
   ],
   "appCard": {
