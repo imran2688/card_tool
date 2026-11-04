@@ -67,15 +67,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5199111046144015",
-      "month": "07",
-      "year": "2031",
-      "cvv": "205",
-      "addedAt": 1793652037538,
-      "id": 1793652037538.7656
-    },
-    {
-      "type": "decline",
       "number": "5199111043430342",
       "month": "09",
       "year": "2030",
@@ -7305,6 +7296,16 @@
       "name": "Jayden Drouin",
       "filledAt": 1793815276989,
       "id": 1793815276989.7231
+    },
+    {
+      "type": "decline",
+      "number": "5199111046144015",
+      "month": "07",
+      "year": "2031",
+      "cvv": "205",
+      "name": "Eleanor Caron",
+      "filledAt": 1793815319371,
+      "id": 1793815319371.5403
     }
   ],
   "appCard": {
