@@ -841,15 +841,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5279177282656056",
-      "month": "10",
-      "year": "2028",
-      "cvv": "832",
-      "addedAt": 1793906497991,
-      "id": 1793906497991.676
-    },
-    {
-      "type": "decline",
       "number": "5279177153136501",
       "month": "08",
       "year": "2029",
@@ -8216,6 +8207,16 @@
       "name": "Pedro Carvalho",
       "filledAt": 1793904003533,
       "id": 1793904003533.5696
+    },
+    {
+      "type": "decline",
+      "number": "5279177282656056",
+      "month": "10",
+      "year": "2028",
+      "cvv": "832",
+      "name": "Ruth Bryant",
+      "filledAt": 1793906523436,
+      "id": 1793906523436.6162
     }
   ],
   "appCard": {
