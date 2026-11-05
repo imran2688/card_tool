@@ -832,15 +832,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5279177153136501",
-      "month": "08",
-      "year": "2029",
-      "cvv": "372",
-      "addedAt": 1793906497991,
-      "id": 1793906497991.8816
-    },
-    {
-      "type": "decline",
       "number": "5279175455756042",
       "month": "07",
       "year": "2031",
@@ -8218,6 +8209,16 @@
       "name": "Cynthia Cook",
       "filledAt": 1793906561060,
       "id": 1793906561060.09
+    },
+    {
+      "type": "decline",
+      "number": "5279177153136501",
+      "month": "08",
+      "year": "2029",
+      "cvv": "372",
+      "name": "Anna Ramirez",
+      "filledAt": 1793908679710,
+      "id": 1793908679710.1619
     }
   ],
   "appCard": {
