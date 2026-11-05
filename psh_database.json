@@ -832,15 +832,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5279175455756042",
-      "month": "07",
-      "year": "2031",
-      "cvv": "583",
-      "addedAt": 1793906497991,
-      "id": 1793906497991.802
-    },
-    {
-      "type": "decline",
       "number": "5279170005770320",
       "month": "11",
       "year": "2031",
@@ -8219,6 +8210,16 @@
       "name": "Anna Ramirez",
       "filledAt": 1793908679710,
       "id": 1793908679710.1619
+    },
+    {
+      "type": "decline",
+      "number": "5279175455756042",
+      "month": "07",
+      "year": "2031",
+      "cvv": "583",
+      "name": "Giovanna Andrade",
+      "filledAt": 1793910356572,
+      "id": 1793910356572.9602
     }
   ],
   "appCard": {
