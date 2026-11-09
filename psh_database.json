@@ -832,15 +832,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5279173238105231",
-      "month": "04",
-      "year": "2028",
-      "cvv": "178",
-      "addedAt": 1794238404779,
-      "id": 1794238404779.4456
-    },
-    {
-      "type": "decline",
       "number": "5279176604230251",
       "month": "11",
       "year": "2028",
@@ -8247,6 +8238,16 @@
       "name": "Giovanna Andrade",
       "filledAt": 1793910356572,
       "id": 1793910356572.9602
+    },
+    {
+      "type": "decline",
+      "number": "5279173238105231",
+      "month": "04",
+      "year": "2028",
+      "cvv": "178",
+      "name": "Donna Adams",
+      "filledAt": 1794245503955,
+      "id": 1794245503955.5464
     }
   ],
   "appCard": {
