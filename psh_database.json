@@ -175,15 +175,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5279170317475865",
-      "month": "03",
-      "year": "2030",
-      "cvv": "664",
-      "addedAt": 1794238404779,
-      "id": 1794238404779.5295
-    },
-    {
-      "type": "decline",
       "number": "5279172032841686",
       "month": "10",
       "year": "2030",
@@ -7604,6 +7595,16 @@
       "name": "Betty Lee",
       "filledAt": 1794387237713,
       "id": 1794387237713.4434
+    },
+    {
+      "type": "decline",
+      "number": "5279170317475865",
+      "month": "03",
+      "year": "2030",
+      "cvv": "664",
+      "name": "Eleanor Caron",
+      "filledAt": 1794387601901,
+      "id": 1794387601901.5466
     }
   ],
   "appCard": null,
