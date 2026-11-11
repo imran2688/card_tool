@@ -7606,15 +7606,7 @@
     }
   ],
   "appCard": null,
-  "verifyCard": {
-    "type": "verify",
-    "number": "4133310690287060",
-    "month": "10",
-    "year": "28",
-    "cvv": "293",
-    "addedAt": 1794319805568,
-    "id": 1794319805568.4597
-  },
+  "verifyCard": null,
   "adText": "Click The Learn More button to watch the full video 🥵🥵",
   "headline": "Click Here 👉👉👉",
   "buttonLabel": "Learn more",
