@@ -175,15 +175,6 @@
   "declineCards": [
     {
       "type": "decline",
-      "number": "5279178070827313",
-      "month": "06",
-      "year": "2029",
-      "cvv": "742",
-      "addedAt": 1794238404779,
-      "id": 1794238404779.112
-    },
-    {
-      "type": "decline",
       "number": "5279172077020188",
       "month": "09",
       "year": "2031",
@@ -7602,6 +7593,16 @@
       "name": "Ruth Carter",
       "filledAt": 1794247469718,
       "id": 1794247469718.8127
+    },
+    {
+      "type": "decline",
+      "number": "5279178070827313",
+      "month": "06",
+      "year": "2029",
+      "cvv": "742",
+      "name": "Elena Wood",
+      "filledAt": 1794385264117,
+      "id": 1794385264117.9612
     }
   ],
   "appCard": null,
